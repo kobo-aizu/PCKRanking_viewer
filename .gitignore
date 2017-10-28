@@ -36,7 +36,7 @@ out
 gen### Java template
 # Compiled class file
 *.class
-
+target/
 # Log file
 *.log
 
@@ -47,7 +47,6 @@ gen### Java template
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.ear
 *.zip
