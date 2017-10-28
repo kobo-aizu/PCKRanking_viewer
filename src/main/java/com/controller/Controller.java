@@ -1,4 +1,4 @@
-package controller;
+package com.controller;
 
 import java.net.URL;
 import java.util.Random;
